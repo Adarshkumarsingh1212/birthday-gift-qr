@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday Shubham</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f6;
+            color: #333;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        h1 {
+            color: #4CAF50;
+            font-size: 36px;
+        }
+
+        .songs-list {
+            margin-top: 30px;
+        }
+
+        .song-btn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            margin: 10px;
+            font-size: 18px;
+            width: 250px;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+            display: inline-block;
+        }
+
+        .song-btn:hover {
+            background-color: #45a049;
+        }
+
+        .footer {
+            margin-top: 50px;
+            font-size: 14px;
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy Birthday Shubham!</h1>
+    <p>Choose a song and enjoy:</p>
+
+    <div class="songs-list">
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=7sFZ4DdOwOmcL0pcchJ3f7'">Tum Hi Ho - Aashiqui 2</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=3FwXBZf0kr8deElmlphlOs'">Raabta - Agent Vinod</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=4mPH2Rrk7YX3xJoc9z8sbj'">Tum Jo Aaye - Once Upon A Time in Mumbaai</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=3XDbCkqf8Azy8TrSloRSMu'">Tum Mile - Tum Mile</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=0dJc6pY8Akza6SfvGdxysq'">Sun Saathiya - ABCD 2</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=4M1HdxEX9iC0CZlTqipfgt'">Tum Hi Tum - Phir Hera Pheri</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=5d5o2BZUdzESF5lzAW5uTq'">Dil Diyan Gallan - Tiger Zinda Hai</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=7zQf72n7DQa61rXFC1p0u8'">Tum Se Hi - Jab We Met</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=0Pp8Dq9Leqa2jz6EZ2hl47'">Tum Tak - Raanjhanaa</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=5tduYbk1Efpwe6Iq6czdsi'">Channa Mereya - Ae Dil Hai Mushkil</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=5e0Mpp6frxaTV5ZqV5ZTUC'">Hasi Ban Gayi - Hamari Adhuri Kahani</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=4MB0OQZTsiDFwQ4F1zq2n1'">Agar Tum Saath Ho - Tamasha</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=7FeTP2o14ljr50IRoFhmtX'">Pee Loon - Once Upon A Time in Mumbaai</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=1Ygn5HpM2vBqF8mfp92Tc2'">Jeene Laga Hoon - Ramaiya Vastavaiya</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=0FDTFzyvQxPYBhHePnyksk'">Tum Jo Aaye - Once Upon A Time in Mumbaai</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=2TSwhlMl3yctJdISZ9hXjA'">Tum Mere Ho - Tum Mere Ho</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=4M0PskLbeD1RUmdgGOhOes'">Agar Tum Saath Ho - Tamasha</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=4XNWXt4eEDGjEqBaJ2VuM0'">Tum Jo Aaye - Once Upon A Time in Mumbaai</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=2p9umFTSkwp6raZY5tz9tb'">Galliyan - Ek Villain</button>
+        <button class="song-btn" onclick="window.location.href='https://www.youtube.com/watch?v=2s0gRHVoHHTwPOs1B0MNST'">Tum Se Hi - Jab We Met</button>
+    </div>
+
+    <div class="footer">
+        <p>This code is designed by Adarsh</p>
+    </div>
+
+</body>
+</html>
